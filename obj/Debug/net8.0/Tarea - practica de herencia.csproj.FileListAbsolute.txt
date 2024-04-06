@@ -1,0 +1,14 @@
+C:\Users\forch\OneDrive\Escritorio\Tarea - practica de herencia\bin\Debug\net8.0\Tarea - practica de herencia.exe
+C:\Users\forch\OneDrive\Escritorio\Tarea - practica de herencia\bin\Debug\net8.0\Tarea - practica de herencia.deps.json
+C:\Users\forch\OneDrive\Escritorio\Tarea - practica de herencia\bin\Debug\net8.0\Tarea - practica de herencia.runtimeconfig.json
+C:\Users\forch\OneDrive\Escritorio\Tarea - practica de herencia\bin\Debug\net8.0\Tarea - practica de herencia.dll
+C:\Users\forch\OneDrive\Escritorio\Tarea - practica de herencia\bin\Debug\net8.0\Tarea - practica de herencia.pdb
+C:\Users\forch\OneDrive\Escritorio\Tarea - practica de herencia\obj\Debug\net8.0\Tarea - practica de herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forch\OneDrive\Escritorio\Tarea - practica de herencia\obj\Debug\net8.0\Tarea - practica de herencia.AssemblyInfoInputs.cache
+C:\Users\forch\OneDrive\Escritorio\Tarea - practica de herencia\obj\Debug\net8.0\Tarea - practica de herencia.AssemblyInfo.cs
+C:\Users\forch\OneDrive\Escritorio\Tarea - practica de herencia\obj\Debug\net8.0\Tarea - practica de herencia.csproj.CoreCompileInputs.cache
+C:\Users\forch\OneDrive\Escritorio\Tarea - practica de herencia\obj\Debug\net8.0\Tarea - practica de herencia.dll
+C:\Users\forch\OneDrive\Escritorio\Tarea - practica de herencia\obj\Debug\net8.0\refint\Tarea - practica de herencia.dll
+C:\Users\forch\OneDrive\Escritorio\Tarea - practica de herencia\obj\Debug\net8.0\Tarea - practica de herencia.pdb
+C:\Users\forch\OneDrive\Escritorio\Tarea - practica de herencia\obj\Debug\net8.0\Tarea - practica de herencia.genruntimeconfig.cache
+C:\Users\forch\OneDrive\Escritorio\Tarea - practica de herencia\obj\Debug\net8.0\ref\Tarea - practica de herencia.dll
